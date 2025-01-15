@@ -1,0 +1,5 @@
+Pillow
+PyPDF2
+requests
+PyQt5
+pdf2image
